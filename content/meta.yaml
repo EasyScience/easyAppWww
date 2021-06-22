@@ -1,0 +1,10 @@
+url: https://app.easyscience.software
+title: Build graphical applications for data analysis and modelling easily
+description: >-
+  Application skeleton with eye-catching and intuitive graphical interface for
+  the easyScience framework. Quickly build all-in-one cross-platform
+  applications using the provided collection of Qt QML components, Python tools,
+  and by binding with the easyCore Python backend.
+release:
+  version: 0.0.1
+  date: 2021-06-08

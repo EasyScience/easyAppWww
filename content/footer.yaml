@@ -1,0 +1,12 @@
+project:
+  title: easyApp
+  icon: icon-easyapp
+  url: https://app.easyscience.software
+  year: 2021
+links:
+  - url: https://github.com/easyscience/easyapp/releases
+    text: Release Notes
+  - url: https://raw.githubusercontent.com/easyscience/easyapp/master/LICENSE.md
+    text: EULA
+  - url: https://github.com/easyscience/easyapp
+    icon: icon-github

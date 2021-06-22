@@ -1,0 +1,50 @@
+hero:
+  title: Build graphical _applications_ for data analysis and modelling _easily_
+  description: >-
+    Application skeleton with eye-catching and intuitive graphical interface for
+    the [easyScience](#) framework. Quickly build all-in-one
+    cross-platform applications using the provided collection of Qt QML
+    components, Python tools, and by binding with the [easyCore](#) Python
+    backend.
+  description_extra: >-
+    Current success stories are for the fields of powder neutron
+    diffraction ([easyDiffraction](#)) and reflectometry ([easyReflectometry](#)),
+    where user defined models are used for simulations and can be refined
+    against experimental data.
+
+features:
+  - icon: icon-open-source
+    title: Free and open-source
+    description: >-
+      Anyone is free to use **easyApp** and the source code is openly shared
+      on GitHub.
+  - icon: icon-cross-platform
+    title: Cross-platform
+    description: >-
+      **easyApp**-based applications works across operating systems: macOS,
+      Windows, or Linux.
+  - icon: fas fa-thumbs-up
+    title: Easy to use
+    description: >-
+      Intuitive tabbed interface with a clear workflow, built-in step-by-step
+      user guides and video tutorials help speed up data modelling and analysis.
+  - icon: icon-delivery-package
+    title: Everything is included
+    description: >-
+      **easyApp**-based applications is distributed as an all-in-one package
+      that includes all the dependencies and can be installed with only a few
+      clicks.
+
+contact:
+  - icon: fas fa-question-circle
+    title: General questions
+    description: >-
+      For general questions or comments, please contact us at
+      [app@easyscience.software](mailto:app@easyscience.software), or fill
+      out the form.
+  - icon: fas fa-bug
+    title: Issues and new features
+    description: >-
+      For bug reports and feature requests, please use
+      [GitHub Issue Tracker](https://github.com/easyscience/easyapp/issues)
+      instead (free registration required).
