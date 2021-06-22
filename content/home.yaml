@@ -2,13 +2,14 @@ hero:
   title: Build graphical _applications_ for data analysis and modelling _easily_
   description: >-
     Application skeleton with eye-catching and intuitive graphical interface for
-    the [easyScience](#) framework. Quickly build all-in-one
-    cross-platform applications using the provided collection of Qt QML
-    components, Python tools, and by binding with the [easyCore](#) Python
-    backend.
+    the [easyScience](https://easyscience.software) framework. Quickly build
+    all-in-one cross-platform applications using the provided collection of
+    Qt QML components, Python tools, and by binding with the
+    [easyCore](https://app.easyscience.software) Python backend.
   description_extra: >-
     Current success stories are for the fields of powder neutron
-    diffraction ([easyDiffraction](#)) and reflectometry ([easyReflectometry](#)),
+    diffraction ([easyDiffraction](https://easydiffraction.org)) and
+    reflectometry ([easyReflectometry](https://easyreflectometry.org)),
     where user defined models are used for simulations and can be refined
     against experimental data.
 
