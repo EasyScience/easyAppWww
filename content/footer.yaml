@@ -9,4 +9,4 @@ links:
   - url: https://raw.githubusercontent.com/easyscience/easyapp/master/LICENSE.md
     text: EULA
   - url: https://github.com/easyscience/easyapp
-    icon: icon-github
+    icon: fab fa-github
