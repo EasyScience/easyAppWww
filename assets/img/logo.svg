@@ -1,35 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?>
-<svg viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 0 46 46" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <radialGradient id="gradient-1" gradientUnits="userSpaceOnUse" cx="152.29" cy="126.9" r="330" gradientTransform="matrix(0.63847, -1.09184, 1.0973, 0.64166, 41.396667, 207.09666)">
-      <stop offset="0" stop-color="#00aaed"/>
-      <stop offset="1" stop-color="#0091ca"/>
-    </radialGradient>
-    <linearGradient id="gradient-4" gradientUnits="userSpaceOnUse" x1="330" y1="0" x2="330" y2="660" gradientTransform="matrix(0.98074, -0.1953, 0.19575, 0.98303, -69.993333, 59.366664)">
-      <stop offset="0" stop-color="#98e2ff"/>
-      <stop offset="1" stop-color="#4ec1ef"/>
+    <linearGradient id="a" gradientUnits="userSpaceOnUse" x1="102.79" y1="24.57" x2="102.79" y2="60.56" gradientTransform="matrix(-1.1592 -.05695 0 -.72222 141.63 64.6)">
+      <stop offset="0" stop-color="#0ea5e9"/>
+      <stop offset="1" stop-color="#0369a1"/>
     </linearGradient>
   </defs>
-  <g transform="matrix(1.5, 0, 0, 1.5, 34, 34)">
-    <circle cx="318.667" cy="318.667" r="330" fill="url(#gradient-1)" stroke="url(#gradient-4)" stroke-width="20"/>
-  </g>
-  <g transform="matrix(1.5, 0, 0, 1.5, 34, 34)">
-    <path stroke-miterlimit="2" d="M 534.567 158.321 L 534.567 230.234 L 102.767 230.234 L 102.767 158.321 Z" style="stroke-linejoin: round; stroke-width: 0px; fill: rgb(186, 230, 253);"/>
-    <circle style="fill: rgb(2, 132, 199);" cx="138.285" cy="194.296" r="20.186"/>
-    <circle style="fill: rgb(14, 165, 233);" cx="193.528" cy="194.296" r="20.186"/>
-    <circle style="fill: rgb(14, 165, 233);" cx="248.374" cy="194.296" r="20.186"/>
-  </g>
-  <g transform="matrix(1.5, 0, 0, -1.5, 34, 1149.493042)">
-    <path stroke-miterlimit="2" d="M 358.1 481.16 L 358.1 264.65 L 102.767 264.65 L 102.767 481.16 Z" stroke-width="20" style="stroke-linejoin: round; fill: rgb(224, 242, 254);"/>
-    <polyline style="fill: none; stroke-width: 20px; stroke: rgb(56, 189, 248);" points="145.019 440.949 174.737 373.634 223.768 335.29 318.294 305.463"/>
-    <circle style="fill: rgb(14, 165, 233);" cx="317.134" cy="311.007" r="20"/>
-    <circle style="fill: rgb(14, 165, 233);" cx="229.075" cy="334.417" r="20"/>
-    <circle style="fill: rgb(14, 165, 233);" cx="176.725" cy="369.748" r="20"/>
-    <circle style="fill: rgb(14, 165, 233);" cx="144.733" cy="435.992" r="20"/>
-  </g>
-  <g transform="matrix(1.5, 0, 0, 1.5, 34, 34)">
-    <path stroke-miterlimit="2" d="M 534.567 262.502 L 534.567 479.012 L 393.294 479.012 L 393.294 262.502 Z" style="stroke-linejoin: round; stroke-width: 0px; fill: rgb(224, 242, 254);"/>
-    <rect x="412.602" y="281.293" width="102.257" height="37.748" style="fill: rgb(14, 165, 233);"/>
-    <rect x="412.602" y="337.221" width="102.257" height="37.748" style="fill: rgb(14, 165, 233);"/>
-  </g>
+  <path d="M44 38c0 1.66-1.57 3-3.5 3h-35C3.57 41 2 39.66 2 38V8c0-1.66 1.57-3 3.5-3h35C42.43 5 44 6.34 44 8z" stroke="url(#a)" fill="none" stroke-width="4"/>
+  <path d="M2 15h27.48v26H5.5C3.56 41 2 39.66 2 38z" fill="#e0f2fe"/>
+  <path d="M44 15v23c0 1.66-1.56 3-3.5 3H29.48V15z" fill="#bae6fd"/>
+  <path d="M2 8c0-1.66 1.56-3 3.5-3h35C42.44 5 44 6.34 44 8v7H2z" fill="#0369a1"/>
+  <path d="M8.3 9.67a2.17 2.17 0 11-4.34 0 2.17 2.17 0 014.35 0zm5.95 0a2.17 2.17 0 11-4.34 0 2.17 2.17 0 014.34 0zm5.9 0a2.17 2.17 0 11-4.34 0 2.17 2.17 0 014.34 0z" fill="#bae6fd"/>
+  <path d="M25.2 35.89l-9.9-3.12-.11-.04-.1-.08-5.14-4.02-.14-.1-.07-.17-3.11-7.05 1.28-.56 3.04 6.89 4.9 3.83 9.78 3.09z" fill="#38bdf8" stroke="#38bdf8"/>
+  <path d="M24.48 33.13a2 2 0 110 4 2 2 0 010-4zm-9.53-3.1a2 2 0 110 4 2 2 0 010-4zm-4.72-4a2 2 0 110 4 2 2 0 010-4zm-2.74-7.86a2 2 0 110 4 2 2 0 010-4z" fill="#0284c7"/>
+  <path d="M32.8 25h8.17v4.06H32.8zm0-7h8.17v4.06H32.8z" fill="#0ea5e9"/>
 </svg>
