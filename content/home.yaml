@@ -19,7 +19,7 @@ features:
     description: >-
       Anyone is free to use **easyApp** and the source code is openly shared
       on GitHub.
-  - icon: icon-cross-platform
+  - icon: icon-multiple-devices
     title: Cross-platform
     description: >-
       **easyApp**-based applications works across operating systems: macOS,
@@ -29,7 +29,7 @@ features:
     description: >-
       Intuitive tabbed interface with a clear workflow, built-in step-by-step
       user guides and video tutorials help speed up data modelling and analysis.
-  - icon: icon-delivery-package
+  - icon: icon-package
     title: Everything is included
     description: >-
       **easyApp**-based applications is distributed as an all-in-one package
